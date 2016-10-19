@@ -49,6 +49,13 @@ Une fois terminé, publiez votre travail sur une Github Page
 ## Screenshots
 
 ![Etat normal](https://raw.githubusercontent.com/SimplonTlse02/what-a-day/master/img/normal.jpeg)
+Etat normal
+
 ![Hover du bouton](https://raw.githubusercontent.com/SimplonTlse02/what-a-day/master/img/hover.jpeg)
+Hover du bouton
+
 ![Erreur](https://raw.githubusercontent.com/SimplonTlse02/what-a-day/master/img/error.jpeg)
+Erreur
+
 ![Résultat](https://raw.githubusercontent.com/SimplonTlse02/what-a-day/master/img/result.jpeg)
+Résultat
